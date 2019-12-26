@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GENERIC
 # from https://github.com/github/gitignore/blob/master/Python.gitignore
 *.DS_Store
@@ -108,3 +109,4 @@ ENV/
 
 *.csv
 nem-data
+.ipynb_checkpoints/data-cleaning-checkpoint.ipynb
